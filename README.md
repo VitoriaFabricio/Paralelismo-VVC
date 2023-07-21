@@ -1,2 +1,2 @@
 # Paralelismo-VVC
-Repositório do projeto de iniciação científica  "Exploração de Computação Aproximada e Armazenamento Aproximado para Sistemas de Codificação de Vídeo Energeticamente Eficientes" 
+Repositório do projeto de iniciação científica  "Exploração de Computação Aproximada e Armazenamento Aproximado para Sistemas de Codificação de Vídeo Energeticamente Eficientes" vinculado a Universidade Federal de Pelotas.
