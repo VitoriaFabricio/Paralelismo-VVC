@@ -1,16 +1,19 @@
 # Paralelismo-VVC
-Repositório do projeto de iniciação científica  "Exploração de Computação Aproximada e Armazenamento Aproximado para Sistemas de Codificação de Vídeo Energeticamente Eficientes" vinculado a Universidade Federal de Pelotas.
+
+Repository of the research project "Exploration of Approximate Computing and Approximate Storage for Energy-Efficient Video Coding Systems" affiliated with the Federal University of Pelotas.
 
 
 ## Installation VVC 20.02
 
-git clone repository:
-
+Git clone the most recent repository
 - ```git clone https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM.git```
 
-or download the file:
+or download especific version:
 
-- ```https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/releases/VTM-20.2```
+- ```[https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/releases/VTM-20.2]
+
+
+
 
 # Usage VVC
 
