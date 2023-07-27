@@ -13,6 +13,14 @@ or download especific version:
 
 - ```https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/releases```
 
+ 
+compiling:
+
+
+- ```cd VVCSoftware_VTM/```
+
+- ```mkdir build```
+
 
 
 
