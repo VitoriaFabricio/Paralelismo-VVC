@@ -10,24 +10,15 @@ Git clone the most recent repository
 
 or download especific version:
 
-
 - ```https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/releases```
-
  
 compiling:
-
 
 - ```cd VVCSoftware_VTM/```
 - ```mkdir build```
 - ```cd build```
 - ```cmake .. -DCMAKE_BUILD_TYPE=Release```
-
-
-
-
-
-
-
+- ```make -j 6```
 
 # Usage VVC
 
