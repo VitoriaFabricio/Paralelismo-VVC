@@ -20,5 +20,5 @@ compiling:
 - ```cmake .. -DCMAKE_BUILD_TYPE=Release```
 - ```make -j 6```
 
-# Usage VVC
+
 
