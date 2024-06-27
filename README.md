@@ -4,7 +4,7 @@ Repository of the research project "Exploration of Approximate Computing and App
 
 
 ## Installation VVC 
-[em edição]
+
 Git clone the most recent repository
 - ```git clone https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM.git```
 
